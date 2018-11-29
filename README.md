@@ -1,0 +1,2 @@
+# JobcanAttendanceReader
+ジョブカンモバイルマイページの出勤簿情報リーダー
